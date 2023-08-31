@@ -1,0 +1,10 @@
+1. Loguearse a GitHub
+2. Seleccionar la foto (arriba a la derecha y luego "Settings")
+3. En la barra de la izquierda seleccionar "Developer Settings"
+4. En la barra de la izquierda seleccionar "Personal Access Token"
+5. Seleccionar el botón "Generate new token"
+6. Asignarle un nombre el token
+7. Asignarle una fecha de expiración (repo + user + delete_repo)
+8. Seleccionar "Generate token"
+9. Tomar nota del token generado
+10. Luego se usa el token en lugar de la clave para autenticarse con GitHub
